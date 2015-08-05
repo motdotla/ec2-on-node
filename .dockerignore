@@ -1,0 +1,7 @@
+README.md
+node_modules
+var
+vendor
+.settings
+.project
+*.log

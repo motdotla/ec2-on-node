@@ -1,0 +1,27 @@
+{
+  "name": "ec2-on-node",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha && standard",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:motdotla/ec2-on-node.git"
+  },
+  "author": "motdotla",
+  "bugs": {
+    "url": "https://github.com/motdotla/ec2-on-node/issues"
+  },
+  "homepage": "https://github.com/motdotla/ec2-on-node",
+  "dependencies": {
+    "express": "^4.12.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "standard": "^5.0.0",
+    "supertest": "^1.0.1"
+  }
+}
